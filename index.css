@@ -1,0 +1,22 @@
+.navlinks{
+	font-size: 11px;
+	font-weight: bold;
+	padding: 3% 0% 3% 0%;
+	margin-left: 3px;
+	margin-right: 3px;
+
+}
+.navlinks:hover{
+	border-top:5px solid #11016b;
+	padding: 2.5% 0% 3% 0%;
+	transition: width 2s;
+}
+
+.active-n{
+	border-top:5px solid #11016b;
+	padding: 2.5% 0% 3% 0%;
+}
+
+a{
+	color:  #11016b;
+}
