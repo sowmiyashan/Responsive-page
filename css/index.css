@@ -15,6 +15,10 @@
 	animation-duration: 1s;
 }
 
+.w3-animate-bottom{
+	animation-duration: 1s;
+}
+
 .delay{
 	animation-delay: 0.2s;
 }
@@ -85,8 +89,14 @@ a{
 	padding-left:30px;
 	padding-right:15px;
 }
-/* 
-[data-aos^=fade][data-aos^=fade] {
-	opacity: 1;
-    transform: translateZ(0)
-} */
+
+
+
+
+.hide-me{
+	opacity: 0;
+}
+
+.last{
+	opacity:0;
+}
