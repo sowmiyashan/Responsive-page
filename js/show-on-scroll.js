@@ -18,15 +18,3 @@ $(window).scroll( function(){
     }); 
 
 });
-
-
-// 'position': 'relative';
-// 'animation': 'animatebottom 0.4s';
-// 'animation-duration': '0.4s';
-// 'animation-timing-function': 'ease';
-// 'animation-delay': '0s';
-// 'animation-iteration-count': '1';
-// 'animation-direction': 'normal';
-// 'animation-fill-mode': 'none';
-// 'animation-play-state': 'running';
-// 'animation-name': animatebottom;
