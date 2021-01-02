@@ -41,6 +41,11 @@ a{
 	color:  #11016b;
 }
 
+a:hover{
+	text-decoration: none;
+	color: cornsilk;
+}
+
 .text{
 	top:200px;
 	left:10%;
@@ -94,6 +99,22 @@ a{
 	padding-right:15px;
 }
 
+.last-1t{
+	opacity:0;
+}
+
+.last-1b{
+	opacity:0;
+}
+
+.last-2t{
+	opacity:0;
+}
+
+.last-2b{
+	opacity:0;
+}
+
 .hide-me-s{
 	opacity:0;
 }
@@ -132,3 +153,50 @@ a{
 .desc-1{
 	color:#7f7f8a;
 }
+
+.service-img-1{
+	height:340px;
+	background-size: cover;
+	background-position: center;
+	position: relative;
+	overflow: hidden;
+	clip-path: polygon(0% 0%, 100% 0, 100% 85%, 85% 100%, 0% 100%);
+}
+
+.service-img-2{
+	height:340px;
+	background-size: cover;
+	background-position: center;
+	position: relative;
+	overflow: hidden;
+	clip-path: polygon(15% 0, 85% 0, 100% 20%, 100% 100%, 0 100%, 0 20%);
+}
+
+.service-img-3{
+	height:340px;
+	background-size: cover;
+	background-position: center;
+	position: relative;
+	overflow: hidden;
+	clip-path: polygon(0 0, 100% 0, 100% 85%, 85% 100%, 15% 100%, 0 85%);
+
+}
+
+.service-text {
+	height:233px;
+    padding: 30px;
+    background: #e4eaf7;
+    overflow: hidden;
+    position: relative;
+}
+
+.col-lg-4{
+	padding-right: 0px;
+	padding-left: 0px;
+}
+
+.card-s{
+	background-color: #e4eaf7;
+	height:573px;
+}
+
