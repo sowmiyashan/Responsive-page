@@ -43,7 +43,7 @@ a{
 
 a:hover{
 	text-decoration: none;
-	color: cornsilk;
+	color:  #11016b;
 }
 
 .text{
@@ -147,7 +147,7 @@ a:hover{
 	color:#11016b;
 	text-align: left;
 	font-size: 50px;
-	padding-top:30px;
+	padding-top:50px;
 }
 
 .desc-1{
@@ -198,5 +198,22 @@ a:hover{
 .card-s{
 	background-color: #e4eaf7;
 	height:573px;
+}
+
+.sixth-part{
+	height:600px;
+	padding-top:70px;
+}
+
+.con{
+	background-color: #e4eaf7;
+	height:450px;
+	padding-top: 90px;
+	padding-bottom: 50px;
+}
+
+.box{
+	width: 100px;
+	height:100px;
 }
 
